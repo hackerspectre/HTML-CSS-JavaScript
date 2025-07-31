@@ -1,2 +1,3 @@
-# HTML_and_CSS
-A curated collection of beautiful and responsive UI projects built using only HTML and CSS — no JavaScript, no frameworks. This repo showcases static clones of popular websites and creative layouts for learning inspiration and portfolio building.
+# HTML, CSS and JavaScript
+A clean collection of frontend projects built using only HTML, CSS, and JavaScript — no external frameworks or libraries. From static website clones to dynamic UI features, this repo showcases the power of the core web technologies.
+This repository is only for project showcasing. It does not include tutorials or beginner explanations.
